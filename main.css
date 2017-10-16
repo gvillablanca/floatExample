@@ -1,0 +1,29 @@
+.caja{
+	background-color: #9A2EFE;
+	border: 3px dashed #3B0B39;
+	overflow: hidden;
+	/*position: fixed;*/
+}
+
+li{
+	float: left;
+	height: 50px;
+	margin: 20px;
+}
+
+img{
+	height: 300px;
+	width: 300px;
+	border: 3px inset #3B0B39;
+	margin:0em 2em;
+}
+
+.img1{
+	float: left;
+}
+.img2{
+	float: right;
+}
+h1{
+	text-align: center;
+}
